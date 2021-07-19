@@ -1,1 +1,0 @@
-connection: "cucu-mysql-connection"
